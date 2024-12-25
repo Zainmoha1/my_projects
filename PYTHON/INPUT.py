@@ -1,0 +1,11 @@
+# Name=input("soogali magacaaga: ")
+# print(Name)
+# Random_Number=input("Enter Random Number: ")
+# print(Random_Number)
+# NUMBER1="12"
+# NUMBER2=int(NUMBER1)
+# print(type(NUMBER1))
+# print(type(NUMBER2))
+ID=int(input("Enter your id :"))
+print(ID)
+print(type(ID))
